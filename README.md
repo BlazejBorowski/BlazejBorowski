@@ -1,5 +1,5 @@
 👋 Hi, I’m @BlazejBorowski  
-👀 I’m a Full-Stack Developer specializing in Laravel & TALL Stack.
+👀 I’m a Full-Stack Developer specializing in Laravel.
 
 📫 How to reach me:  
 - **LinkedIn:** [Błażej Borowski](https://www.linkedin.com/in/blazejborowski/)  
